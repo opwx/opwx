@@ -1,40 +1,43 @@
-# 👋 Hello, I'm opwx!
+<br clear="both">
 
-![Anime GIF](https://media.giphy.com/media/xT0xeuOi0pS6T8g0MS/giphy.gif)
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/56/26/8c/56268c9c514d6e99d272d0733819c844.gif"  />
+</div>
 
-## 🚀 About Me
-![Cool GIF](https://media.giphy.com/media/3o6Zt2zqYH6fKcQR0I/giphy.gif)
+###
 
-I’m a passionate developer diving deep into the world of code and creativity. My GitHub journey is filled with open source projects and innovative solutions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opwx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opwx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=opwx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-- 🌱 Currently learning: **[Technologies or Languages]**
-- 🔭 Working on: **[Current Project]**
-- 👯 Seeking collaborations on: **[Collaboration Interests]**
-- 💬 Let’s chat about: **[Topics You're Knowledgeable About]**
-- 📫 Reach me at: **[Your Email or Contact Info]**
+###
 
-✨ Join me as I explore the endless possibilities of coding!
+<div align="left">
+  <a href="discordapp.com/opwx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
+###
 
-## 🚀 About Me
-![Exciting GIF](https://media.giphy.com/media/l1J9tq5FzVddV5h0s/giphy.gif)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-Welcome to my corner of the coding universe! I’m **opwx**, a passionate developer on a mission to create magic through code and innovation. 🌟
+###
 
-- 🌱 **Currently learning:** *[Technologies or Languages]*  
-- 🔭 **Currently crafting:** *[Current Project]*  
-- 👯 **Eager to collaborate on:** *[Collaboration Interests]*  
-- 💬 **Let’s discuss:** *[Topics You're Knowledgeable About]*  
-- 📫 **Connect with me:** *[Your Email or Contact Info]*  
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=opwx&theme=dracula" alt="Layout with last medium posts"  />
+</div>
 
-### 📊 Recent Activity
-I actively contribute to various projects! Check out my recent activity below:
-- **Last commit:** [Your most recent commit or activity](https://github.com/opwx?tab=activity)
-- **Latest repositories:** [See my repositories](https://github.com/opwx?tab=repositories)
-
-## 🌟 GitHub Stats
-![opwx's GitHub stats](https://github-readme-stats.vercel.app/api?username=opwx&show_icons=true&theme=radical)
-
-## 🌈 Fun Fact
-I’m a huge fan of [Your Favorite Anime or Hobby]!
-
+###
