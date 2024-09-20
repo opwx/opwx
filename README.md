@@ -1,7 +1,6 @@
 <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=always+try+to+be+deserve.+better.;“opwx+was+here+bitch”." alt="Typing SVG" /></a>
-<br clear="both">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=hello+motherfucker%3A" alt="Typing SVG"/></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=always+try+to+be+deserve+better.;“opwx+was+here+bitch”." alt="Typing SVG" /></a>
 
 <div align="center">
   <img height="400" src="https://64.media.tumblr.com/3179fc326c295ea75d2b1949d81d91d5/tumblr_p1xydubn8K1s8yicyo1_540.gifv"  />
@@ -18,7 +17,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/opwx/opwx/output/snake.svg" alt="Snake animation" />
 
 ###
